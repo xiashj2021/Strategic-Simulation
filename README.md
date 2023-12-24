@@ -2,6 +2,7 @@
 <font face='Times New Roman' size='5'><p style='text-align:center'>**Lanzhou University Strategy Simulation System**</p></font>
 <div style='text-align:center'>
     <img src='./Element/LZUQYMUNA.png' width=240>
+    <img src='./Element/copyright.svg' width=240>
 </div>
 <div style='text-align:center'>
     <a href='https://github.com/xiashj2021/Strategic-Simulation/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-Apache-blue'></a>
@@ -59,8 +60,3 @@
 - <font face='Times New Roman'>[Simulation Mechanism](./Document/Simulation%20Mechanism.pdf)</font>
 
  
-
-<div style='text-align:center'>
-    <img src='./Element/copyright.svg' width=240>
-    <img src='./Element/LZUQYMUNA.png' width=240>
-</div>
